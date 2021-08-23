@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('http://cielle.cloud/SourceCode.php'))()
+loadstring(game:HttpGet('http://cielle.cloud/SourceCode'))()
